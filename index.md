@@ -1,9 +1,10 @@
 ---
-layout: home
+layout: single
 title: "Yixiao Chen"
 author_profile: true
 permalink: /
 ---
+
 
 I am a M.S. student in Economics at the University of Wisconsin–Madison. My research interests lie at the intersection of **agricultural economics, environmental economics, and resource management**, with a particular focus on how agricultural production decisions interact with environmental externalities and policy incentives.
 
