@@ -8,8 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-
-    
   - title: "CV"
-    url: /files/Yixiao_Chen_Cv.pdf
+    url: /files/YixiaoChen_CV.pdf
+
 
