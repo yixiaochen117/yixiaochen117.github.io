@@ -14,5 +14,5 @@ In future work, I aim to examine the environmental impacts of livestock producti
 
 I plan to pursue a Ph.D. in Agricultural and Resource Economics, where I hope to continue developing empirical strategies to inform the design of more efficient and environmentally sustainable agricultural policies.
   
-[Download CV (PDF)](/files/Yixiao_Chen_Cv.pdf){: .btn .btn-primary }
+[Download CV (PDF)](/files/Yixiao_Chen_CV.pdf){: .btn .btn-primary }
 
