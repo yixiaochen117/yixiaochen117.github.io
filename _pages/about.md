@@ -5,14 +5,24 @@ permalink: /
 author_profile: true
 ---
 
+I am a **PhD candidate in Agricultural Economics and Management**, jointly affiliated with the **Chinese Academy of Agricultural Sciences (CAAS)** and **Wageningen University & Research (WUR)**.
 
-I am a M.S. student in Economics at the University of Wisconsin–Madison. My research interests lie at the intersection of **Economics of technological change, Environmental Economics, Agricultural Economics and Policy**, with a particular focus on how agricultural production decisions interact with environmental externalities and policy incentives.
+My research lies at the intersection of **agricultural economics, environmental economics, and applied microeconometrics**. I study how climate and environmental shocks affect farm production, input use, productivity, and profitability; how farmers adapt to these shocks; and how farm-level responses are transmitted through agricultural markets into commodity prices and food inflation.
 
-I am especially interested in understanding how farm-level management choices (such as fertilizer application and livestock operations) contribute to water quality impacts, and how policy interventions can improve both environmental outcomes and farm economic sustainability. My current work applies **panel data econometrics and causal inference methods** (including instrumental variables and Difference-in-Differences frameworks) to study how climate variability and farmers’ adaptive behavior affect agricultural productivity in the U.S. Corn Belt.
+My doctoral research, **“From Heat Shocks to Food Inflation: Farm Adaptation, Input Use, and Price Transmission in European and Chinese Crop Systems,”** combines farm-level economic data with weather, climate, and market information to study adaptation and price transmission across European and Chinese agricultural systems.
 
-In future work, I aim to examine the environmental impacts of livestock production systems, particularly nutrient runoff and its downstream ecological consequences. I am also interested in integrating **remote-sensing, hydrological, and agricultural datasets** to better quantify environmental damages and evaluate the effectiveness of related regulatory frameworks.
+Methodologically, I am interested in **causal inference and panel-data econometrics**, including fixed-effects models, Difference-in-Differences and event-study designs, instrumental variables, and high-dimensional panel methods. I am also interested in integrating **remote sensing, machine learning, and AI tools** into empirical agricultural economics.
 
-I plan to pursue a Ph.D. in Agricultural and Resource Economics, where I hope to continue developing empirical strategies to inform the design of more efficient and environmentally sustainable agricultural policies.
-  
-[Download CV (PDF)](/files/Yixiao_Chen_CV.pdf){: .btn .btn-primary }
+Before starting my PhD, I completed an **M.S. in Economics at the University of Wisconsin–Madison**.
 
+### Research interests
+
+- Agricultural and environmental economics
+- Climate change, extreme heat, and agricultural production
+- Farm adaptation, input use, productivity, and risk
+- Agricultural markets, price transmission, and food inflation
+- Applied microeconometrics and causal inference
+- AI and machine learning applications in agricultural economics
+
+[Research](/research/){: .btn .btn-primary }
+[Download CV (PDF)](/files/Yixiao_Chen_CV.pdf){: .btn }
