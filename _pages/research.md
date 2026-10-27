@@ -5,40 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on how **climate shocks and environmental risks affect agricultural production and markets**, with particular interest in farmers' adaptation decisions and the transmission of production shocks into prices.
+My doctoral research focuses on **extreme heat shocks, farm adaptation, input decisions, price transmission, and food inflation** in **European and Chinese crop systems**.
 
 ## Doctoral research
 
-### From Heat Shocks to Food Inflation: Farm Adaptation, Input Use, and Price Transmission in European and Chinese Crop Systems
+I am a PhD student jointly enrolled at **Wageningen University & Research (WUR)** and the **Graduate School of Chinese Academy of Agricultural Sciences (GS-CAAS)**, supervised by **Yann de Mey** and **Xiangdong Hu**.
 
-My PhD research studies three connected questions:
+My research connects three questions:
 
-1. **Production effects** — How do extreme temperatures affect crop output, input use, productivity, and farm profitability?
-2. **Farm adaptation** — How do farmers adjust production practices, crop portfolios, rotations, inputs, insurance, and contractual arrangements in response to climate risk?
-3. **Market transmission** — To what extent do farm-level production shocks propagate through agricultural markets into commodity prices and food inflation?
+1. **Extreme heat shocks:** How does extreme heat affect crop production in Europe and China?
+2. **Farm adaptation and input decisions:** How do farms adapt to these shocks and adjust their production inputs?
+3. **Price transmission and food inflation:** How do production shocks and farm responses transmit through agricultural markets into food prices and inflation?
 
-The project uses farm-level economic data together with weather, climate, and market information, with a comparative perspective on **European and Chinese crop systems**.
-
-## Research themes
-
-### Climate change and farm adaptation
-I am interested in measuring heterogeneous responses to heat and other climate shocks and distinguishing short-run coping responses from longer-run adaptation.
-
-### Agricultural productivity and input use
-I study how farmers adjust fertilizer, labor, capital, crop choice, and other production inputs when facing environmental and economic shocks, and how these adjustments affect productivity and profitability.
-
-### Price transmission and food inflation
-I am interested in linking farm-level production responses to downstream market outcomes, especially agricultural commodity prices and food inflation.
-
-### Environmental and agricultural policy
-My broader work considers how agricultural production interacts with environmental externalities and how policy can improve both economic resilience and environmental performance.
-
-## Methods and data
-
-My empirical work draws on **panel-data econometrics and causal inference**, including fixed effects, Difference-in-Differences, event-study designs, instrumental variables, and high-dimensional panel methods. I am also interested in combining traditional econometric methods with **remote sensing, machine learning, and AI-assisted research workflows**.
-
-Data sources of interest include farm-accountancy and farm-management datasets, weather and climate records, agricultural market data, and spatial or remote-sensing data.
-
-## Current status
-
-I am currently developing the empirical framework and data strategy for my doctoral research. Working papers and research outputs will be added here as they become available.
+[About and education](/#education){: .btn .btn-primary }

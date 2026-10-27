@@ -5,24 +5,27 @@ permalink: /
 author_profile: true
 ---
 
-I am a **PhD candidate in Agricultural Economics and Management**, jointly affiliated with the **Chinese Academy of Agricultural Sciences (CAAS)** and **Wageningen University & Research (WUR)**.
+## About
 
-My research lies at the intersection of **agricultural economics, environmental economics, and applied microeconometrics**. I study how climate and environmental shocks affect farm production, input use, productivity, and profitability; how farmers adapt to these shocks; and how farm-level responses are transmitted through agricultural markets into commodity prices and food inflation.
+I am a **PhD student jointly enrolled at Wageningen University & Research (WUR) and the Graduate School of Chinese Academy of Agricultural Sciences (GS-CAAS)**. My supervisors are **Yann de Mey** and **Xiangdong Hu**.
 
-My doctoral research, **“From Heat Shocks to Food Inflation: Farm Adaptation, Input Use, and Price Transmission in European and Chinese Crop Systems,”** combines farm-level economic data with weather, climate, and market information to study adaptation and price transmission across European and Chinese agricultural systems.
+My doctoral research examines **extreme heat shocks, farm adaptation, input decisions, price transmission, and food inflation** in **European and Chinese crop systems**. I study how farms respond to extreme heat and how these responses connect agricultural production decisions with market outcomes.
 
-Methodologically, I am interested in **causal inference and panel-data econometrics**, including fixed-effects models, Difference-in-Differences and event-study designs, instrumental variables, and high-dimensional panel methods. I am also interested in integrating **remote sensing, machine learning, and AI tools** into empirical agricultural economics.
+## Education
 
-Before starting my PhD, I completed an **M.S. in Economics at the University of Wisconsin–Madison**.
+- **Joint PhD studies**, Wageningen University & Research (WUR) and Graduate School of Chinese Academy of Agricultural Sciences (GS-CAAS). Supervisors: Yann de Mey and Xiangdong Hu.
+- **M.S. in Economics**, University of Wisconsin–Madison, May 2026.
+- **Undergraduate dual degrees**, Shanghai Ocean University and the University of Tasmania.
 
-### Research interests
+## Research
 
-- Agricultural and environmental economics
-- Climate change, extreme heat, and agricultural production
-- Farm adaptation, input use, productivity, and risk
-- Agricultural markets, price transmission, and food inflation
-- Applied microeconometrics and causal inference
-- AI and machine learning applications in agricultural economics
+- Extreme heat shocks in European and Chinese crop systems
+- Farm adaptation and agricultural input decisions
+- Agricultural price transmission and food inflation
 
-[Research](/research/){: .btn .btn-primary }
+[More about my research](/research/){: .btn .btn-primary }
 [Download CV (PDF)](/files/Yixiao_Chen_CV.pdf){: .btn }
+
+## Contact
+
+You can find me on [GitHub](https://github.com/yixiaochen117) and [LinkedIn](https://www.linkedin.com/in/yixiao-chen-676b63308/).
