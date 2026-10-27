@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yixiao Chen"
 title_separator          : "-"
 name                     : &name "Yixiao Chen"
-description              : &description "M.S. Economics, University of Wisconsin–Madison"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Joint Ph.D. Candidate | Wageningen University & Research and GS-CAAS"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yixiaochen117.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Yixiao Chen"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. Economics @ UW–Madison"
-  location         : "Madison, WI, USA"
-  employer         : "UW–Madison"
+  bio              : "Joint Ph.D. Candidate @ WUR & GS-CAAS"
+  location         : "Wageningen / Beijing"
+  employer         : "WUR & GS-CAAS"
   uri              : # URL
   email            : "chen2636@wisc.edu" 
 
