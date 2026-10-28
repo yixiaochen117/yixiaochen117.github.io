@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Yixiao Chen"
 title_separator          : "-"
 name                     : &name "Yixiao Chen"
-description              : &description "M.S. Economics, University of Wisconsin–Madison"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Joint PhD student at Wageningen University & Research (WUR) and Graduate School of Chinese Academy of Agricultural Sciences (GS-CAAS)"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yixiaochen117.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yixiao Chen"
-  pronouns         : # example: "she/her"  
-  bio              : "M.S. Economics @ UW–Madison"
-  location         : "Madison, WI, USA"
-  employer         : "UW–Madison"
+  pronouns         : # example: "she/her"
+  bio              : "Joint PhD student | WUR & GS-CAAS"
+  location         :
+  employer         : "WUR & GS-CAAS"
   uri              : # URL
-  email            : "chen2636@wisc.edu" 
+  email            :
 
   # Academic websites
 
@@ -38,7 +38,7 @@ author:
   # Repositories and software development
 
   github           : "yixiaochen117"
- 
+
 
   # Social media
 
@@ -50,7 +50,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
@@ -129,6 +129,8 @@ include:
   - _pages
   - files
 exclude:
+  # Keep template publication examples out of the public site.
+  - _publications
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache

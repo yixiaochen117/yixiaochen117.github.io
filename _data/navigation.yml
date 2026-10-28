@@ -1,1 +1,11 @@
-
+main:
+  - title: "About"
+    url: /#about
+  - title: "Education"
+    url: /#education
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /files/Yixiao_Chen_CV.pdf
+  - title: "GitHub"
+    url: https://github.com/yixiaochen117
